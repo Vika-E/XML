@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <ID>1</ID>
+  <Summary>Закрывается окно редактора при нажатии кнопки "Отмена" в разделе "Создать свой дизайн</Summary>
+  <Steps_to_reproduce>
+    <step_1>Открыть сайт http://test.com</step_1>
+    <step_2>Нажать карточку "Создать свой дизайн"</step_2>
+    <step_3>Нажать кнопку "Загрузить изображение"</step_3>
+    <step_4>В открывшемся окне выбрать изображение в формате jpeg до 10 Мб (пример в аттаче) и нажать кнопку "Открыть"</step_4>
+    <step_5>В открывшемся редакторе нажать кнопку Отмены</step_5>
+  </Steps_to_reproduce>
+  <Actual_result>Окно редактора закрылось. Отображается главная страница.</Actual_result>
+  <Expected_result>Размер изображения вернулся к исходному</Expected_result>
+  <Attachments>press_button.jpg</Attachments>
+  <Enviroments>
+    <Operational_system>Windows 10</Operational_system>
+    <Browser_version>Google Chrome 98.0.4758.102</Browser_version>
+  </Enviroments>
+</bug_report>
