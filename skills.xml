@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <skills>
+      <skill_1>Theory of testing</skill_1>
+      <skill_2>HTTP methods</skill_2>
+      <skill_3>JSON, XML</skill_3>
+      <skill_4>Postman</skill_4>
+      <skill_5>Logs</skill_5>
+      <skill_6>Charles and Fiddler</skill_6>
+      <skill_7>Dev Tools</skill_7>
+      <skill_8>VPN</skill_8>
+      <skill_9>Mobile testing</skill_9>
+      <skill_10>Android studio</skill_10>
+      <skill_11>Linux terminal</skill_11>
+      <skill_12>Bash scripting</skill_12>
+      <skill_13>SQL</skill_13>
+      <skill_14>Postgres</skill_14>
+      <skill_15>Redis</skill_15>
+      <skill_16>Jmeter</skill_16>
+      <skill_17>Scrum</skill_17>
+   </skills>
